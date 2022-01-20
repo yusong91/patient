@@ -20,17 +20,8 @@
     "Age": "Age",
     "Positive_date": "Positive Date",
     "Variant":"Variant",
-    "Job":"Career"
-
-
-
-
-
-
-
-
-
-    "# of users with this role": "broj korisnika sa ovom ulogom",
+    "Job":"Career",
+    "of users with this role": "broj korisnika sa ovom ulogom",
     "2FA Token is invalid!": "2FA token nije validan!",
     "A fresh verification link has been sent to your email address.": "Novi verfikacioni link je poslat na Vašu mejl adresu.",
     "A general permission information.": "Osnovne informacije o dozvoli.",
