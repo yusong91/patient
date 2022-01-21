@@ -5,7 +5,7 @@
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => '2a9c752e23eaff70dd00d0c437cb4adfbe627de5',
+        'reference' => 'cf783cf53698be6c5f7ee836e612ca8d029a8c8b',
         'name' => 'loshmis/vanguard',
         'dev' => true,
     ),
@@ -796,7 +796,7 @@
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => '2a9c752e23eaff70dd00d0c437cb4adfbe627de5',
+            'reference' => 'cf783cf53698be6c5f7ee836e612ca8d029a8c8b',
             'dev_requirement' => false,
         ),
         'maatwebsite/excel' => array(
